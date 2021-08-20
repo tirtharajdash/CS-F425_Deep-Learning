@@ -74,7 +74,7 @@ primarily used during major and minor projects design.
 | Lecture   | Link |
 |-----------|------|
 | Lecture 0 |      |
-|           |      |
+| Lecture 1 |      |
 
 
 ## Lab Materials
@@ -82,4 +82,4 @@ primarily used during major and minor projects design.
 | Lab   | Link |
 |-------|------|
 | Lab 0 |      |
-|       |      |
+| Lab 1 |      |
