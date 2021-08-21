@@ -2,7 +2,7 @@
 
 | Primary Instructor (IC)   | [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj/profile) |
 |---------------------------|---|
-| Teaching Assistants (TAs) |  |
+| Teaching Assistants (TAs) | [Atharv Sonwane](https://threewisemonkeys-as.github.io/) |
 
 Course handout can be found [here](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/DL_handout.pdf). 
 
@@ -71,13 +71,18 @@ primarily used during major and minor projects design.
 
 ## Lecture Materials
 
+References to relevent study materials are provided in the lecture PDFs.
+
 | Lecture   | Link |
 |-----------|------|
-| Lecture 0 |      |
+| Lecture 0 | [slide](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/DL_handout.pdf) |
 | Lecture 1 |      |
 
 
 ## Lab Materials
+
+All our labs will be based on PyTorch. See the official [PyTorch Tutorials](https://pytorch.org/tutorials/).
+We will also have 1 lab on basic Python and PyTorch.
 
 | Lab   | Link |
 |-------|------|
