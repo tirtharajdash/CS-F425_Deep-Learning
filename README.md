@@ -75,7 +75,7 @@ References to relevent study materials are provided in the lecture PDFs.
 
 | Lecture   | Link |
 |-----------|------|
-| Lecture 0: Introducing the course | [slide](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lecture-Slides/Lecture0.pdf) |
+| Lecture 0: Introducing the course | [slide](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lecture-Slides/Lecture0.pdf) [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view) |
 | Lecture 1 |      |
 
 
