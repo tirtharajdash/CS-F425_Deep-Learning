@@ -2,7 +2,7 @@
 
 | Primary Instructor (IC)   | [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj/profile) |
 |---------------------------|---|
-| Teaching Assistants (TAs) | [Atharv Sonwane](https://threewisemonkeys-as.github.io/) |
+| Teaching Assistants (TAs) | [Atharv Sonwane](https://threewisemonkeys-as.github.io/) &nbsp;&nbsp;&nbsp; [Anmol Agarwal](https://www.linkedin.com/in/anmol-agarwal-041098/) &nbsp;&nbsp;&nbsp; [Ameya Laad](http://ameyalaad.github.io/)|
 
 Course handout can be found [here](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/DL_handout.pdf). 
 
@@ -71,11 +71,16 @@ primarily used during major and minor projects design.
 
 ## Lecture Materials
 
-References to relevent study materials are provided in the lecture PDFs.
+References to the relevent study materials are provided in the lecture slides and in some cases,
+these are made available separately. 
+The recoded videos of live lectures are accessible to the registered students only.
 
 | Lecture   | Link |
 |-----------|------|
-| Lecture 0: Introducing the course | [slide](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lecture-Slides/Lecture0.pdf), [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view) |
+| Lecture 0: Introducing the course | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture0.pdf), [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view) |
+| Tutorials: NN and optimisation basics | [NN Basics 1](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf) <br/>
+[NN Basics 2](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf) <br/>
+[Opt Basics](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
 | Lecture 1 |      |
 
 
