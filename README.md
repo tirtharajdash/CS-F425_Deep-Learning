@@ -69,7 +69,7 @@ Additioanlly, we may also look at relevant papers from
 primarily used during major and minor projects design.
 
 
-## Lecture Materials
+## Theory Materials
 
 References to the relevent study materials are provided in the lecture slides and in some cases,
 these are made available separately. 
