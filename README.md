@@ -78,8 +78,10 @@ The recoded videos of live lectures are accessible to the registered students on
 | Lecture   | Link |
 |-----------|------|
 | Lecture 0: Introducing the course | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture0.pdf), [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view) |
-| Tutorials: NN and optimisation basics | [NN Basics 1](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf) &nbsp;&nbsp;&nbsp; [NN Basics 2](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf) &nbsp;&nbsp;&nbsp; [Opt Basics](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
-| Lecture 1 |      |
+| Tutorial 1: NN Basics | [NN Basics 1](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf) |
+| Tutorial 2: NN Basics | [NN Basics 2](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf) |
+| Tutorial 3: Optimisation Basics | [Opt Basics](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
+| Lecture 1: MLPs |      |
 
 
 ## Lab Materials
