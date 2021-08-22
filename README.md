@@ -2,9 +2,10 @@
 
 | Primary Instructor (IC)   | [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj/profile) |
 |---------------------------|---|
-| Teaching Assistants (TAs) | [Atharv Sonwane](https://threewisemonkeys-as.github.io/) &nbsp;&nbsp;&nbsp; [Anmol Agarwal](https://www.linkedin.com/in/anmol-agarwal-041098/) &nbsp;&nbsp;&nbsp; [Ameya Laad](http://ameyalaad.github.io/)|
+| Teaching Assistants (TAs) | [Atharv Sonwane](https://threewisemonkeys-as.github.io/) &nbsp;&nbsp;&nbsp; [Anmol Agarwal](https://www.linkedin.com/in/anmol-agarwal-041098/) &nbsp;&nbsp;&nbsp; [Ameya Laad](http://ameyalaad.github.io/) &nbsp;&nbsp;&nbsp; [Akhilesh Adithya](https://akhileshadithya.github.io/)|
 
 Course handout can be found [here](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/DL_handout.pdf). 
+
 
 ## Scope and Objective of the course
 
