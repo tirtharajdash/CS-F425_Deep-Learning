@@ -78,12 +78,14 @@ The recoded videos of live lectures are accessible to the registered students on
 
 | Lecture   | Link |
 |-----------|------|
-| Lecture 0: Introducing the course | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture0.pdf), [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view) |
-| Tutorial 1: NN Basics | [NN Basics 1](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf) |
-| Tutorial 2: NN Basics | [NN Basics 2](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf) |
-| Tutorial 3: Optimisation Basics | [Opt Basics](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
+| Lecture 0: Introducing the course | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture0.pdf), [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view?usp=sharing) |
+| Tutorial 1: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf), [video](https://drive.google.com/file/d/1s7uPfKM53_5PN30IbrK2chLIPqUvp4of/view?usp=sharing) |
+| Tutorial 2: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf) |
+| Tutorial 3: Optimisation Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
 | Lecture 1: MLPs |      |
 
+These slides and videos are not really optimised for public; so, please email me directly if you find
+any error or mistake in my lecture slides or videos. This will help me correct these the next time.
 
 ## Lab Materials
 
