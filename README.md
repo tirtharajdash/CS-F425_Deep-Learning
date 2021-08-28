@@ -75,24 +75,30 @@ primarily used during major and minor projects design.
 References to the relevent study materials are provided in the lecture slides and in some cases,
 these are made available separately. 
 The recoded videos of live lectures are accessible to the registered students only.
+The slides and videos may not be in sync in some cases; that is, any slide may span
+over multiple lecture slots.
 
-| Lecture   | Link |
-|-----------|------|
-| Lecture 0: Introducing the course | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture0.pdf), [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view?usp=sharing) |
-| Tutorial 1: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf), [video](https://drive.google.com/file/d/1s7uPfKM53_5PN30IbrK2chLIPqUvp4of/view?usp=sharing) |
-| Tutorial 2: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf) |
+
+| Lecture   | In-class Lecture | Extra Materials |
+|-----------|------------------|-----------------|
+| Lecture 0: Introducing the course | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture0.pdf), [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view?usp=sharing) | |
+| Tutorial 1: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf), [video](https://drive.google.com/file/d/1s7uPfKM53_5PN30IbrK2chLIPqUvp4of/view?usp=sharing) | |
+| Tutorial 2: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf), [video](https://drive.google.com/file/d/1HXjtGyx_dSlF_XSmxj3xlZBliNeLYmQm/view?usp=sharing) | [A note on Perceptron](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/perceptron.pdf) |
 | Tutorial 3: Optimisation Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
-| Lecture 1: MLPs |      |
+| Lecture 1: MLPs |      |     |
 
-These slides and videos are not really optimised for public; so, please email me directly if you find
-any error or mistake in my lecture slides or videos. This will help me correct these the next time.
+These slides and videos are not really optimised for general public; so, please email me directly if you find
+any error or mistake in my lecture slides or videos. This will help me correct these the next time. Thank you.
+
 
 ## Lab Materials
 
 All our labs will be based on PyTorch. See the official [PyTorch Tutorials](https://pytorch.org/tutorials/).
 We will also have 1 lab on basic Python and PyTorch.
 
-| Lab   | Link |
-|-------|------|
-| Lab 0 |      |
-| Lab 1 |      |
+Update: According to students' votes, we are fixing the lab timing to be: **Wednesday 6-8 PM**.
+
+| Lab   | Recorded video | Notebooks |
+|-------|----------------|-----------|
+| Lab 0 |                |           |
+| Lab 1 |                |           |
