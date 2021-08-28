@@ -83,7 +83,7 @@ over multiple lecture slots.
 |-----------|------------------|-----------------|
 | Lecture 0: Introducing the course | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture0.pdf), [video](https://drive.google.com/file/d/1QXLGrSHwjWdS4gvDWeYjh9zj5Dihd3it/view?usp=sharing) | |
 | Tutorial 1: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf), [video](https://drive.google.com/file/d/1s7uPfKM53_5PN30IbrK2chLIPqUvp4of/view?usp=sharing) | |
-| Tutorial 2: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf), [video1](https://drive.google.com/file/d/1HXjtGyx_dSlF_XSmxj3xlZBliNeLYmQm/view?usp=sharing) [video2](https://drive.google.com/file/d/1zq0jROhsIK51DQhCP4m3x0x2Uiqn8QJJ/view?usp=sharing) | [A note on Perceptron](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/perceptron.pdf) |
+| Tutorial 2: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf), [video1](https://drive.google.com/file/d/1HXjtGyx_dSlF_XSmxj3xlZBliNeLYmQm/view?usp=sharing), [video2](https://drive.google.com/file/d/1zq0jROhsIK51DQhCP4m3x0x2Uiqn8QJJ/view?usp=sharing) | [A note on Perceptron](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/perceptron.pdf) |
 | Tutorial 3: Optimisation Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
 | Lecture 1: MLPs |     |     |
 
