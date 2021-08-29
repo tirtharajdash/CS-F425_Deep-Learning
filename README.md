@@ -96,9 +96,10 @@ any error or mistake in my lecture slides or videos. This will help me correct t
 All our labs will be based on PyTorch. See the official [PyTorch Tutorials](https://pytorch.org/tutorials/).
 We will also have 1 lab on basic Python and PyTorch.
 
-Update: According to students' votes, we are fixing the lab timing to be: **Wednesday 6-8 PM**.
+Update: According to students' votes, we are fixing the lab timing to be: **Wednesday 6-8 PM**. Please make sure to go through the reading materials (given below) before the lab.
 
-| Lab   | Recorded video | Notebooks |
-|-------|----------------|-----------|
-| Lab 0 |                |           |
-| Lab 1 |                |           |
+| Lab   | Reading Material | Recording | Exercise Material |
+|-------|-----------|-----------|-----------|
+| Lab 0: Basics of Python and PyTorch | [Python Tutorial Series](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) by Sentdex <br> [Python Intro Notebook](https://cs231n.github.io/python-numpy-tutorial) by Justin Johnson <br>Section 2.1 - 2.3 of [d2l.ai](http://d2l.ai/)  | |
+| Lab 1 | | |
+
