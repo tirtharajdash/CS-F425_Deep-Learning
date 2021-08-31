@@ -85,7 +85,7 @@ over multiple lecture slots.
 | Tutorial 1: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut1.pdf), [video](https://drive.google.com/file/d/1s7uPfKM53_5PN30IbrK2chLIPqUvp4of/view?usp=sharing) | |
 | Tutorial 2: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf), [video1](https://drive.google.com/file/d/1HXjtGyx_dSlF_XSmxj3xlZBliNeLYmQm/view?usp=sharing), [video2](https://drive.google.com/file/d/1zq0jROhsIK51DQhCP4m3x0x2Uiqn8QJJ/view?usp=sharing) | [A note on Perceptron](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/perceptron.pdf) |
 | Tutorial 3: Optimisation Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
-| Lecture 1: MLPs |     |     |
+| Lecture 1: DL Components and a Bayesian view | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture1.pdf), [video](https://drive.google.com/file/d/1lYs0VouCJ-e2BPlDPV8r2O6v-aGTJh1u/view?usp=sharing) |     |
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
 any error or mistake in my lecture slides or videos. This will help me correct these the next time. Thank you.
@@ -99,7 +99,7 @@ We will also have 1 lab on basic Python and PyTorch.
 Update: According to students' votes, we are fixing the lab timing to be: **Wednesday 6-8 PM**. Please make sure to go through the reading materials (given below) before the lab.
 
 | Lab   | Reading Material | Recording | Exercise Material |
-|-------|-----------|-----------|-----------|
-| Lab 0: Basics of Python and PyTorch | [Python Tutorial Series](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) by Sentdex <br> [Python Intro Notebook](https://cs231n.github.io/python-numpy-tutorial) by Justin Johnson <br>Section 2.1 - 2.3 of [d2l.ai](http://d2l.ai/)  | |
+|-------|------------------|-----------|-------------------|
+| Lab 0: Basics of Python and PyTorch | [Python Tutorial Series](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) by Sentdex <br> [Python Intro Notebook](https://cs231n.github.io/python-numpy-tutorial) by Justin Johnson <br>Section 2.1-2.3 of [d2l.ai](http://d2l.ai/)  | |
 | Lab 1 | | |
 
