@@ -98,8 +98,10 @@ We will also have 1 lab on basic Python and PyTorch.
 
 Update: According to students' votes, we are fixing the lab timing to be: **Wednesday 6-8 PM**. Please make sure to go through the reading materials (given below) before the lab.
 
+To run/edit the colab notebooks, please create a copy in your drive and work on that copy.
+
 | Lab   | Reading Material | Recording | Exercise Material |
 |-------|------------------|-----------|-------------------|
-| Lab 0: Basics of Python and PyTorch | [Python Tutorial Series](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) by Sentdex <br> [Python Intro Notebook](https://cs231n.github.io/python-numpy-tutorial) by Justin Johnson <br>Section 2.1-2.3 of [d2l.ai](http://d2l.ai/)  | |
+| Lab 0: Basics of Python and PyTorch | [Python Tutorial Series](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) by Sentdex <br> [Python Intro Notebook](https://cs231n.github.io/python-numpy-tutorial) by Justin Johnson <br>Section 2.1-2.3 of [d2l.ai](http://d2l.ai/) | |  [DL Lab 0 Notebook](https://colab.research.google.com/drive/1HvAnGuGy6PaZyBtPNtYGUmvH-6CVDn5H?usp=sharing) <br> [Introduction to Numpy](https://colab.research.google.com/drive/1UQYTwZ6_y3ifZBfgIbn0INC87EmjPPtD?usp=sharing) |
 | Lab 1 | | |
 
