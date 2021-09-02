@@ -86,6 +86,7 @@ over multiple lecture slots.
 | Tutorial 2: NN Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/NN_basics_Tut2.pdf), [video1](https://drive.google.com/file/d/1HXjtGyx_dSlF_XSmxj3xlZBliNeLYmQm/view?usp=sharing), [video2](https://drive.google.com/file/d/1zq0jROhsIK51DQhCP4m3x0x2Uiqn8QJJ/view?usp=sharing) | [A note on Perceptron](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/perceptron.pdf) |
 | Tutorial 3: Optimisation Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
 | Lecture 1: DL Components and a Bayesian view | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture1.pdf), [video](https://drive.google.com/file/d/1lYs0VouCJ-e2BPlDPV8r2O6v-aGTJh1u/view?usp=sharing) |     |
+| Lecture 2: Deep Feedforward Nets (MLPs) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture2.pdf), [video]() |     |
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
 any error or mistake in my lecture slides or videos. This will help me correct these the next time. Thank you.
