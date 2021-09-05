@@ -87,6 +87,8 @@ over multiple lecture slots.
 | Tutorial 3: Optimisation Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
 | Lecture 1: DL Components and a Bayesian view | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture1.pdf), [video](https://drive.google.com/file/d/1lYs0VouCJ-e2BPlDPV8r2O6v-aGTJh1u/view?usp=sharing) |     |
 | Lecture 2: Deep Feedforward Nets (MLPs) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture2.pdf), [video](https://drive.google.com/file/d/10eJe8EjPyaNCYiLHmFFEjQPlT1D9JOby/view?usp=sharing) |     |
+| Lecture 3: Backpropagation in MLP | [video](https://drive.google.com/file/d/1-Eh_2lAW3m_WICtf4hOrZdiCU3f7KtOK/view?usp=sharing) | [Backprop]() |
+
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
 any error or mistake in my lecture slides or videos. This will help me correct these the next time. Thank you.
