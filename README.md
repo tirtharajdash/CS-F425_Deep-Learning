@@ -90,7 +90,7 @@ over multiple lecture slots.
 | Lecture 1: DL Components and a Bayesian view | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture1.pdf), [video](https://drive.google.com/file/d/1lYs0VouCJ-e2BPlDPV8r2O6v-aGTJh1u/view?usp=sharing) |     |
 | Lecture 2: Deep Feedforward Nets (MLPs) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture2.pdf), [video](https://drive.google.com/file/d/10eJe8EjPyaNCYiLHmFFEjQPlT1D9JOby/view?usp=sharing) |     |
 | Lecture 3: Backpropagation in MLP(1) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture3.pdf), [video](https://drive.google.com/file/d/1-Eh_2lAW3m_WICtf4hOrZdiCU3f7KtOK/view?usp=sharing) | [Homework](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/Lecture3_hw.pdf) |
-| Lecture 4: Backpropagation in MLP(2) | | [Vectorisation]() |
+| Lecture 4: Backpropagation in MLP(2) | | [Vectorisation](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/vectorisation.pdf), [codes](https://github.com/tirtharajdash/CS-F425_Deep-Learning/tree/main/Demos/vectorisation) |
 
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
