@@ -113,7 +113,7 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 
 ## Using our course materials
 
-Non-profitable usages of the materials from this course is absolutely free. However,
+Non-profitable usage of the materials from this course is absolutely free. However,
 if you are tech-blogger or a course instructor or a student outside BITS Pilani (Goa Campus) 
 and you are using our course materials for any non-profitable purposes, 
 please credit this course page by providing a proper reference to this page.
