@@ -74,6 +74,8 @@ primarily used during major and minor projects design.
 
 References to the relevent study materials are provided in the lecture slides and in some cases,
 these are made available separately. 
+Duration of each lecture is 50 min, which may get extended by 10-15 min. I am thankful to
+my students for tolerating this aspect of my teaching.
 The recoded videos of live lectures are accessible to the registered students only.
 The slides and videos may not be in sync in some cases; that is, any slide may span
 over multiple lecture slots.
@@ -88,7 +90,7 @@ over multiple lecture slots.
 | Lecture 1: DL Components and a Bayesian view | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture1.pdf), [video](https://drive.google.com/file/d/1lYs0VouCJ-e2BPlDPV8r2O6v-aGTJh1u/view?usp=sharing) |     |
 | Lecture 2: Deep Feedforward Nets (MLPs) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture2.pdf), [video](https://drive.google.com/file/d/10eJe8EjPyaNCYiLHmFFEjQPlT1D9JOby/view?usp=sharing) |     |
 | Lecture 3: Backpropagation in MLP(1) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture3.pdf), [video](https://drive.google.com/file/d/1-Eh_2lAW3m_WICtf4hOrZdiCU3f7KtOK/view?usp=sharing) | [Homework](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/Lecture3_hw.pdf) |
-| Lecture 4: Backpropagation in MLP(2) | | |
+| Lecture 4: Backpropagation in MLP(2) | | [Vectorisation]() |
 
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
