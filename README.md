@@ -87,11 +87,13 @@ over multiple lecture slots.
 | Tutorial 3: Optimisation Basics | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/Opt_Tut1.pdf) |
 | Lecture 1: DL Components and a Bayesian view | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture1.pdf), [video](https://drive.google.com/file/d/1lYs0VouCJ-e2BPlDPV8r2O6v-aGTJh1u/view?usp=sharing) |     |
 | Lecture 2: Deep Feedforward Nets (MLPs) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture2.pdf), [video](https://drive.google.com/file/d/10eJe8EjPyaNCYiLHmFFEjQPlT1D9JOby/view?usp=sharing) |     |
-| Lecture 3: Backpropagation in MLP | [video](https://drive.google.com/file/d/1-Eh_2lAW3m_WICtf4hOrZdiCU3f7KtOK/view?usp=sharing) | [Backprop]() |
+| Lecture 3: Backpropagation in MLP(1) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture3.pdf), [video](https://drive.google.com/file/d/1-Eh_2lAW3m_WICtf4hOrZdiCU3f7KtOK/view?usp=sharing) | [Homework](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/Lecture3_hw.pdf) |
+| Lecture 4: Backpropagation in MLP(2) | | |
 
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
-any error or mistake in my lecture slides or videos. This will help me correct these the next time. Thank you.
+any error or mistake in my lecture slides or videos. This will help me correct these the next time. 
+Thank you.
 
 
 ## Lab Materials
@@ -108,3 +110,11 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 | Lab 0: Basics of Python and PyTorch | [Python Tutorial Series](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) by Sentdex <br> [Python Intro](https://cs231n.github.io/python-numpy-tutorial) by Justin Johnson <br>Section 2.1-2.3 of [d2l.ai](http://d2l.ai/) | [video](https://drive.google.com/file/d/1Be1aqGczs2d8pLkyvPESxyGjYSNonnZK/view?usp=sharing) |  [Notebook1](https://colab.research.google.com/drive/1HvAnGuGy6PaZyBtPNtYGUmvH-6CVDn5H?usp=sharing) <br> [Notebook2](https://colab.research.google.com/drive/1UQYTwZ6_y3ifZBfgIbn0INC87EmjPPtD?usp=sharing) |
 | Lab 1 | | |
 
+
+## Using our course materials
+
+Using materials from this course is absolutely free. However,
+if you are tech-blogger or a course instructor or a student outside BITS Pilani (Goa Campus) 
+and you are using our course materials for any non-profitable purposes, 
+please credit this course page by providing a proper reference to this page.
+Any profitable usage of these materials needs permission from the owner ([Tirtharaj Dash](https://tirtharajdash.github.io/)).
