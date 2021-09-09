@@ -91,12 +91,12 @@ over multiple lecture slots.
 | Lecture 2: Deep Feedforward Nets (MLPs) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture2.pdf), [video](https://drive.google.com/file/d/10eJe8EjPyaNCYiLHmFFEjQPlT1D9JOby/view?usp=sharing) |     |
 | Lecture 3: Backpropagation in MLP(1) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture3.pdf), [video](https://drive.google.com/file/d/1-Eh_2lAW3m_WICtf4hOrZdiCU3f7KtOK/view?usp=sharing) | [Homework](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/Lecture3_hw.pdf) |
 | Lecture 4: Backpropagation in MLP(2) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture4.pdf), [video](https://drive.google.com/file/d/1HCZ8ir6p_KqsMVePknsmWhFhwkDKPF4l/view?usp=sharing) | [Vectorisation](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/vectorisation.pdf), [codes](https://github.com/tirtharajdash/CS-F425_Deep-Learning/tree/main/Demos/vectorisation) |
-|Lecture 5: Generalisation | | [What is a dataset?](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/YisSampled.pdf) |
+|Lecture 5: Generalisation | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture5.pdf), [video](https://drive.google.com/file/d/1yR_s6YjoeFVe8SUQDjJDJmGyM1qnSwqt/view?usp=sharing) | [What is a dataset?](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/YisSampled.pdf) |
 
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
-any error or mistake in my lecture slides or videos. This will help me correct these the next time. 
-Thank you.
+any error or mistake in my lecture slides or videos. This will help me correct these the next time. I sincerely
+thank the [MathCha Editor](https://www.mathcha.io/editor) which I use extensively to draw most of the diagrams.
 
 
 ## Lab Materials
