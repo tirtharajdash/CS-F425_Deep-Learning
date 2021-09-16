@@ -93,6 +93,8 @@ over multiple lecture slots.
 | Lecture 4: Backpropagation in MLP(2) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture4.pdf), [video](https://drive.google.com/file/d/1HCZ8ir6p_KqsMVePknsmWhFhwkDKPF4l/view?usp=sharing) | [Vectorisation](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/vectorisation.pdf), [codes](https://github.com/tirtharajdash/CS-F425_Deep-Learning/tree/main/Demos/vectorisation) |
 | Lecture 5: Generalisation(1) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture5.pdf), [video](https://drive.google.com/file/d/1yR_s6YjoeFVe8SUQDjJDJmGyM1qnSwqt/view?usp=sharing) | [What is a dataset?](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/YisSampled.pdf) |
 | Lecture 6: Generalisation(2) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture6.pdf), [video](https://drive.google.com/file/d/1VTaFv1TgZeriO9569Iffe-9huKCDFfSN/view?usp=sharing) | |
+| Lecture 7: Other Regularisation Techniques | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture7.pdf), [video](https://drive.google.com/file/d/1RzVKVfSRbPThViZxFBpwQHdkXlTtFpTU/view?usp=sharing) | [Dropout](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) |
+| Lecture 8: Optimisation, Initialisation, BatchNorm | | |
 
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
@@ -113,7 +115,7 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 |-------|------------------|-----------|-------------------|
 | Lab 0: Basics of Python and PyTorch | [Python Tutorial Series](https://pythonprogramming.net/introduction-learn-python-3-tutorials/) by Sentdex <br> [Python Intro](https://cs231n.github.io/python-numpy-tutorial) by Justin Johnson <br>Section 2.1-2.3 of [d2l.ai](http://d2l.ai/) | [video](https://drive.google.com/file/d/1Be1aqGczs2d8pLkyvPESxyGjYSNonnZK/view?usp=sharing) |  [Notebook1](https://colab.research.google.com/drive/1HvAnGuGy6PaZyBtPNtYGUmvH-6CVDn5H?usp=sharing) <br> [Notebook2](https://colab.research.google.com/drive/1UQYTwZ6_y3ifZBfgIbn0INC87EmjPPtD?usp=sharing) |
 | Lab 1: Autograd and MLP | Section 2.4 - 2.5 of [d2l.ai](http://d2l.ai/) <br> [Intro to Autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py) | [video](https://drive.google.com/file/d/19YQLqth--2q7xdBER-632GW-kNmT9ayG/view?usp=sharing) | [Notebook](https://colab.research.google.com/drive/15L51sdwIeylKQV-BZm2wCEfR9dJT7-Zi?usp=sharing) |
-| Lab 2: Activation Functions and Loss Regularization | | [video](https://drive.google.com/file/d/1F8XRs73Tqsat2rtUyNye6ZY9s6EMpNOt/view?usp=sharing) | [Notebook](https://colab.research.google.com/drive/1X4kl7nGtj_q1rumvZHEsUeSzX1BJ9kJ6?usp=sharing) |
+| Lab 2: Activation Functions and Regularisation | | [video](https://drive.google.com/file/d/1F8XRs73Tqsat2rtUyNye6ZY9s6EMpNOt/view?usp=sharing) | [Notebook](https://colab.research.google.com/drive/1X4kl7nGtj_q1rumvZHEsUeSzX1BJ9kJ6?usp=sharing) |
 | Lab 3: Hyperparameter Tuning | | |
 
 
