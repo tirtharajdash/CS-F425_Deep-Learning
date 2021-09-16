@@ -38,13 +38,10 @@ Primary textbooks:
 
 1.  A. Zhang, Z.C. Lipton, M. Li, A.J. Smola, [Dive into Deep
     Learning](https://d2l.ai/index.html).
-
 2.  Ian Goodfellow, Yoshua Bengio, Aaron Courville, [Deep
     Learning](http://www.deeplearningbook.org/front_matter.pdf), MIT
     Press.
-
 3.  Aggarwal, C. C. (2018). Neural networks and deep learning, Springer.
-
 4.  W.L. Hamilton, [Graph Representation Learning
     Book](https://www.cs.mcgill.ca/~wlh/grl_book/).
 
@@ -52,11 +49,9 @@ Other good reference books include:
 
 1.  Graves, A. (2012). [Supervised sequence labelling with recurrent
     neural networks](https://www.cs.toronto.edu/~graves/preprint.pdf).
-
 2.  Francois Chollet, [Deep Learning with
     Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf),
     Manning Publishers.
-
 3.  E. Stevens, L. Antiga, T. Viehmann, [Deep Learning with
     PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf),
     Manning Publishers.
