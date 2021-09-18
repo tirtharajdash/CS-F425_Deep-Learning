@@ -114,6 +114,13 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 | Lab 2: Regularisation | Section 4.5.2 - 4.5.3 of [d2l.ai](http://d2l.ai/) | [video](https://drive.google.com/file/d/1F8XRs73Tqsat2rtUyNye6ZY9s6EMpNOt/view?usp=sharing) | [Notebook](https://colab.research.google.com/drive/1X4kl7nGtj_q1rumvZHEsUeSzX1BJ9kJ6?usp=sharing) |
 | Lab 3: Hyperparameter Tuning | | |
 
+## Lab Projects
+
+| Lab Project | Details | Submission Date | Submission Link |
+|-------|------------------|-----------|-------------------|
+| Project 1: Skip connections in MLPs | [Assignment 1](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Projects/CS_F425_DL_Assignment_1.pdf) | **Sep 25, 11:59 PM** | [Google Classroom](https://classroom.google.com/c/MzgzNTE2MTc5NzE5/a/Mzk4ODI1MzU2MTAw/details) |
+
+
 
 ## Using our course materials
 
