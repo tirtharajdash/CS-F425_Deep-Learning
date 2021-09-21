@@ -89,8 +89,8 @@ over multiple lecture slots.
 | Lecture 5: Generalisation(1) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture5.pdf), [video](https://drive.google.com/file/d/1yR_s6YjoeFVe8SUQDjJDJmGyM1qnSwqt/view?usp=sharing) | [What is a dataset?](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Extras/YisSampled.pdf) |
 | Lecture 6: Generalisation(2) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture6.pdf), [video](https://drive.google.com/file/d/1VTaFv1TgZeriO9569Iffe-9huKCDFfSN/view?usp=sharing) | |
 | Lecture 7: Dropout, Early Stopping | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture7.pdf), [video](https://drive.google.com/file/d/1RzVKVfSRbPThViZxFBpwQHdkXlTtFpTU/view?usp=sharing) | [Dropout Paper](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) |
-| Lecture 8: Optimisation and Parameter Initialisation | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture8.pdf), [video](https://drive.google.com/file/d/1xbwu334-iVoIGiy11YXXOyD-ndrfjwWU/view?usp=sharing) | [Adam Paper](https://arxiv.org/pdf/1412.6980.pdf) |
-| Lecture 9: Normalising Activations | | |
+| Lecture 8: Optimisation and Parameter Initialisation | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture8.pdf), [video](https://drive.google.com/file/d/1xbwu334-iVoIGiy11YXXOyD-ndrfjwWU/view?usp=sharing) | |
+| Lecture 9: Adaptive Optimisation Methods | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture9.pdf), [video](https://drive.google.com/file/d/1jAyfnim6WiHJM0kzsNnFS9S-Lxr1H72d/view?usp=sharing) | [Adam Paper](https://arxiv.org/pdf/1412.6980.pdf) |
 
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
@@ -117,8 +117,8 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 ## Lab Projects
 
 | Lab Project | Details | Submission Date | Submission Link |
-|-------|------------------|-----------|-------------------|
-| Project 1: Skip connections in MLPs | [Assignment 1](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Projects/CS_F425_DL_Assignment_1.pdf) | **Sep 25, 11:59 PM** | [Google Classroom](https://classroom.google.com/c/MzgzNTE2MTc5NzE5/a/Mzk4ODI1MzU2MTAw/details) |
+|-------------|---------|-----------------|-----------------|
+| Project 1: Residual MLPs | [Assignment 1](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Projects/CS_F425_DL_Assignment_1.pdf) | **Sep 25, 11:59 PM IST** | [Google Classroom](https://classroom.google.com/c/MzgzNTE2MTc5NzE5/a/Mzk4ODI1MzU2MTAw/details) |
 
 
 
