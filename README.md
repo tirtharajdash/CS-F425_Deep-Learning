@@ -92,6 +92,7 @@ over multiple lecture slots.
 | Lecture 8: Optimisation and Parameter Initialisation | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture8.pdf), [video](https://drive.google.com/file/d/1xbwu334-iVoIGiy11YXXOyD-ndrfjwWU/view?usp=sharing) | |
 | Lecture 9: Adaptive Optimisation Methods | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture9.pdf), [video](https://drive.google.com/file/d/1jAyfnim6WiHJM0kzsNnFS9S-Lxr1H72d/view?usp=sharing) | [Adam Paper](https://arxiv.org/pdf/1412.6980.pdf) |
 | Lecture 10: Template Matching and CNNs | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture10.pdf), [video](https://drive.google.com/file/d/1odQ-rnu1pTJ_wmw-6Me2GYVmQCF7UxV_/view?usp=sharing) | [Yann LeCun's CNN Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-99.pdf) |
+| Lecture 11: Fully-Connected Layers to Convolutions | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture11.pdf), [video](https://drive.google.com/file/d/1rKlFf-TLDccHEXSxySr-_fDiJReq6HOd/view?usp=sharing) | |
 
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
