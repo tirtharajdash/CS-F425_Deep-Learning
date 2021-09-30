@@ -94,6 +94,7 @@ over multiple lecture slots.
 | Lecture 10: Template Matching and CNNs | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture10.pdf), [video](https://drive.google.com/file/d/1odQ-rnu1pTJ_wmw-6Me2GYVmQCF7UxV_/view?usp=sharing) | [Yann LeCun's CNN Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-99.pdf) |
 | Lecture 11: Fully-Connected Layers to Convolutions | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture11.pdf), [video](https://drive.google.com/file/d/1rKlFf-TLDccHEXSxySr-_fDiJReq6HOd/view?usp=sharing) | |
 | Lecture 12: CNN Operators (Convolution, Pooling) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture12.pdf), [video](https://drive.google.com/file/d/1LzKvF1B8XiuFJ7C9kcgM8ZoAAqP5A6_4/view?usp=sharing) | |
+| Lecture 13: Gradient Computation in CNNs | [slides](), [video](https://drive.google.com/file/d/1ZDRPzNG70scT6pOV5VTa-XMK_gIaLeUP/view?usp=sharing) | |
 
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
@@ -116,7 +117,7 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 | Lab 1: Autograd and MLP | Section 2.4 - 2.5 of [d2l.ai](http://d2l.ai/) <br> [Intro to Autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py) | [video](https://drive.google.com/file/d/19YQLqth--2q7xdBER-632GW-kNmT9ayG/view?usp=sharing) | [Notebook](https://colab.research.google.com/drive/15L51sdwIeylKQV-BZm2wCEfR9dJT7-Zi?usp=sharing) |
 | Lab 2: Regularisation | Section 4.5.2 - 4.5.3 of [d2l.ai](http://d2l.ai/) | [video](https://drive.google.com/file/d/1F8XRs73Tqsat2rtUyNye6ZY9s6EMpNOt/view?usp=sharing) | [Notebook](https://colab.research.google.com/drive/1X4kl7nGtj_q1rumvZHEsUeSzX1BJ9kJ6?usp=sharing) |
 | Lab 3: Hyperparameter Tuning | Section 4.4, 4.6 and 7.5 from [d2l.ai](http://d2l.ai/) <br> [Hyperparameter tuning](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/ch04.html) | [video](https://drive.google.com/file/d/1fIfybjRUXG4btOvBM9E_90Cpx7YLlvjN/view?usp=sharing) | [Notebook 1](https://colab.research.google.com/drive/1S0Y8xiaBaI6p1Y74MiNnCio6IuOE4Eto?usp=sharing) <br> [Notebook 2](https://colab.research.google.com/drive/1UHsM00OTT19FexEHwSkrydo13pfvUKXO?usp=sharing) |
-| Lab 4: Intro to CNNs | Section 6 from [d2l.ai](http://d2l.ai/) | |[Notebook](https://colab.research.google.com/drive/10afSD0wjQinhHug8RPlPSvooK8ZGfVgc?usp=sharing) |
+| Lab 4: Intro to CNNs | Section 6 from [d2l.ai](http://d2l.ai/) | [video](https://drive.google.com/file/d/1ScRQRsN3zt_Ye6mMD0uC1SHouQCkJyZJ/view?usp=sharing) |[Notebook](https://colab.research.google.com/drive/10afSD0wjQinhHug8RPlPSvooK8ZGfVgc?usp=sharing) |
 
 ## Lab Projects
 
