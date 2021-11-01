@@ -99,7 +99,9 @@ over multiple lecture slots.
 | Lecture 15: Transfer Learning | [video](https://drive.google.com/file/d/1NfjxSbLdMHGFBC9-din6DBLPB3Phn97K/view?usp=sharing)|[Notebook](https://colab.research.google.com/drive/1D-8H41zXHnsmjeaoOaqcZqIJH08aSbtY?usp=sharing)|
 | Lecture 16: Sequence Learning | [materials:8.1-8.3](https://d2l.ai/chapter_recurrent-neural-networks/index.html), [video](https://drive.google.com/file/d/1jgUZhOKi4rV3kAfM47VhGHjPUZoaaoF_/view?usp=sharing) | [board](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture16.pdf) |
 | Lecture 17: Recurrent Neural Nets | [video](https://drive.google.com/file/d/1gz4SMrueMBxg-ccP63qi9wN1pV9YBiIg/view?usp=sharing) | [board]() |
-| Lecture 18: Backprop Through Time (BPTT) | [slides](), [video]() | |
+| Lecture 18: Backprop Through Time (BPTT) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture17.pdf), [video](https://drive.google.com/file/d/1uettbMlL2Q9KoS0LmyO6dK4ubiQPtM_1/view?usp=sharing) | |
+| Midsem solution discussion | [video](https://drive.google.com/file/d/14m0TA0YVqFAD5DyP5BqleFmoMIr18c47/view?usp=sharing) | |
+
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
 any error or mistake in my lecture slides or videos. This will help me correct these the next time. I sincerely
