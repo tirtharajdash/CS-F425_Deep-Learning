@@ -102,6 +102,7 @@ over multiple lecture slots.
 | Lecture 18: Backprop Through Time (BPTT) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture17.pdf), [video](https://drive.google.com/file/d/1uettbMlL2Q9KoS0LmyO6dK4ubiQPtM_1/view?usp=sharing) | |
 | Midsem solution discussion | [video](https://drive.google.com/file/d/14m0TA0YVqFAD5DyP5BqleFmoMIr18c47/view?usp=sharing) | |
 | Lecture 19: Dealing with Vanishing Gradients in RNN | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture18.pdf), [video](https://drive.google.com/file/d/1Bht-fF8Od2YFBBYwAGzablnONg-p72G5/view?usp=sharing) | |
+| Lecture 20: Seq-to-Seq Learning, Attention Mechanism | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture19.pdf), [video](https://drive.google.com/file/d/1rgtQA_7efylMz0ysqGQPk-MDQNusXyp6/view?usp=sharing) | |
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
 any error or mistake in my lecture slides or videos. This will help me correct these the next time. I sincerely
