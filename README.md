@@ -126,6 +126,8 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 | Lab 3: Hyperparameter Tuning | Section 4.4, 4.6 and 7.5 from [d2l.ai](http://d2l.ai/) <br> [Hyperparameter tuning](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/ch04.html) | [video](https://drive.google.com/file/d/1fIfybjRUXG4btOvBM9E_90Cpx7YLlvjN/view?usp=sharing) | [Notebook 1](https://colab.research.google.com/drive/1S0Y8xiaBaI6p1Y74MiNnCio6IuOE4Eto?usp=sharing) <br> [Notebook 2](https://colab.research.google.com/drive/1UHsM00OTT19FexEHwSkrydo13pfvUKXO?usp=sharing) |
 | Lab 4: Intro to CNNs | Section 6 from [d2l.ai](http://d2l.ai/) | [video](https://drive.google.com/file/d/1ScRQRsN3zt_Ye6mMD0uC1SHouQCkJyZJ/view?usp=sharing) |[Notebook](https://colab.research.google.com/drive/10afSD0wjQinhHug8RPlPSvooK8ZGfVgc?usp=sharing) |
 | Lab 5: Intro to CNNs (Continued) | Section 6 from [d2l.ai](http://d2l.ai/) | [video](https://drive.google.com/file/d/1xNE06_1z7p1POk7BkG9QhJYMM_H1r9gd/view?usp=sharing) |[Notebook](https://colab.research.google.com/drive/10afSD0wjQinhHug8RPlPSvooK8ZGfVgc?usp=sharing) |
+| Lab 6: Intro to RNNs | Section 8 from [d2l.ai](http://d2l.ai/) | [part 1](https://drive.google.com/file/d/1ckNOAf1_GfDcQzI-wwqfu6YLIJjttMN4/view?usp=sharing) [part 2]() |[Intro](https://colab.research.google.com/drive/1r4zC-g578oCFTzu8MNmRUQ6aKKrM56mZ?usp=sharing), [Exercises](https://colab.research.google.com/drive/1r4zC-g578oCFTzu8MNmRUQ6aKKrM56mZ?usp=sharing) |
+
 
 
 ## Lab Projects
