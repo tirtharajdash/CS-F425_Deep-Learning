@@ -104,7 +104,7 @@ over multiple lecture slots.
 | Lecture 19: Dealing with Vanishing Gradients in RNN | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture18.pdf), [video](https://drive.google.com/file/d/1Bht-fF8Od2YFBBYwAGzablnONg-p72G5/view?usp=sharing) | |
 | Lecture 20: Seq-to-Seq Learning, Attention Mechanism | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture19.pdf), [video](https://drive.google.com/file/d/1rgtQA_7efylMz0ysqGQPk-MDQNusXyp6/view?usp=sharing) | |
 | Lecture 21: Attention and Self-attention | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture20.pdf), [video](https://drive.google.com/file/d/1elHRINYDPe3lRH818wL0bPDaGJtdxXSO/view?usp=sharing) | [Attention is all you need.](https://arxiv.org/abs/1706.03762) |
-| Lecture 22: Multi-head Attention and Transformer | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture21.pdf), [video](https://drive.google.com/file/d/1K--MH8oxbL4yj7OgjjlIMC-C8S1Wh08f/view?usp=sharing) | |
+| Lecture 22: Multi-head Attention and Transformer | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture21.pdf), [video](https://drive.google.com/file/d/1K--MH8oxbL4yj7OgjjlIMC-C8S1Wh08f/view?usp=sharing) | [Layer Normalisation](https://arxiv.org/abs/1607.06450) |
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
 any error or mistake in my lecture slides or videos. This will help me correct these the next time. I sincerely
