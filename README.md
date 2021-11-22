@@ -138,8 +138,7 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 | Lab Project | Details | Submission Date | Submission Link |
 |-------------|---------|-----------------|-----------------|
 | Project 1: Residual MLPs | [Assignment 1](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Projects/CS_F425_DL_Assignment_1.pdf) | **Sep 25, 11:59 PM IST** | [Google Classroom](https://classroom.google.com/c/MzgzNTE2MTc5NzE5/a/Mzk4ODI1MzU2MTAw/details) |
-
-
+| Project 2: Major Project | [Assignment 2](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Projects/CS_F425_DL__Major_Project.pdf) | **Dec 7, 11:59 PM IST** | [Google Classroom](https://classroom.google.com/u/1/c/MzgzNTE2MTc5NzE5/a/NDM2NTM4NjQ4MDE4/details) |
 
 ## Using our course materials
 
