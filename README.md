@@ -106,7 +106,7 @@ over multiple lecture slots.
 | Lecture 21: Attention and Self-attention | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture20.pdf), [video](https://drive.google.com/file/d/1elHRINYDPe3lRH818wL0bPDaGJtdxXSO/view?usp=sharing) | [Attention is all you need.](https://arxiv.org/abs/1706.03762) |
 | Lecture 22: Multi-head Attention and Transformer | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture21.pdf), [video](https://drive.google.com/file/d/1K--MH8oxbL4yj7OgjjlIMC-C8S1Wh08f/view?usp=sharing) | [Layer Normalisation](https://arxiv.org/abs/1607.06450) |
 | Lecture 23: Representation Learning | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture22.pdf), [video](https://drive.google.com/file/d/1W9EkIwCgGTWrIu2_wV7ffpm9ep58ryaa/view?usp=sharing) | |
-| Lecture 24: | | |
+| Lecture 24: Representation Learning | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture23.pdf), [video](https://drive.google.com/file/d/1lgtMVD-jRiG7TbAWgNSsZSfHEym5q3Yb/view?usp=sharing) | |
 
 These slides and videos are not really optimised for general public; so, please email me directly if you find
 any error or mistake in my lecture slides or videos. This will help me correct these the next time. I sincerely
