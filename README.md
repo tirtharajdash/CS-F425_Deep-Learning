@@ -110,7 +110,7 @@ over multiple lecture slots.
 | Lecture 25: Generative Modelling (Intro. to VAE) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture24.pdf), [video](https://drive.google.com/file/d/1pjDez6Sk2rF5MK2fekuIJipI4e_lnajr/view?usp=sharing) | |
 | Lecture 26: Variational AE | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture25.pdf), [video](https://drive.google.com/file/d/1mqO0l54JsqqZYnIyOgb--6VYu5jDN-KA/view?usp=sharing) | |
 | Lecture 27: Generative Adversarial Network (GAN) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture26.pdf), [video](https://drive.google.com/file/d/1hY8JTKpTPIEIYhlujrEXcVTQN6E2_tDi/view?usp=sharing) | |
-| Lecture 28: Energy-based Generative Modelling (RBM) | | |
+| Lecture 28: Energy-based Generative Modelling (RBM) | [materials](https://www.deeplearningbook.org/contents/generative_models.html) | |
 
 
 
