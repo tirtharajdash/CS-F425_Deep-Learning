@@ -111,6 +111,7 @@ over multiple lecture slots.
 | Lecture 26: Variational AE | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture25.pdf), [video](https://drive.google.com/file/d/1mqO0l54JsqqZYnIyOgb--6VYu5jDN-KA/view?usp=sharing) | |
 | Lecture 27: Generative Adversarial Network (GAN) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture26.pdf), [video](https://drive.google.com/file/d/1hY8JTKpTPIEIYhlujrEXcVTQN6E2_tDi/view?usp=sharing) | |
 | Lecture 28: Energy-based Generative Modelling (RBM) | [materials](https://www.deeplearningbook.org/contents/generative_models.html) | |
+| AI Symp 22: [Tutorial Talk on GNNs](https://sites.google.com/goa.bits-pilani.ac.in/aisymposium2022/home?authuser=0) | [sides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/AISymp22_GNNs.pdf)| |
 
 
 
@@ -138,7 +139,7 @@ To run/edit the colab notebooks, please create a copy in your drive and work on 
 | Lab 5: Intro to CNNs (Continued) | Section 6 from [d2l.ai](http://d2l.ai/) | [video](https://drive.google.com/file/d/1xNE06_1z7p1POk7BkG9QhJYMM_H1r9gd/view?usp=sharing) |[Notebook](https://colab.research.google.com/drive/10afSD0wjQinhHug8RPlPSvooK8ZGfVgc?usp=sharing) |
 | Lab 6: Intro to RNNs | Section 8 from [d2l.ai](http://d2l.ai/) | [part 1](https://drive.google.com/file/d/1ckNOAf1_GfDcQzI-wwqfu6YLIJjttMN4/view?usp=sharing) |[Intro](https://colab.research.google.com/drive/1r4zC-g578oCFTzu8MNmRUQ6aKKrM56mZ?usp=sharing), [Exercises](https://colab.research.google.com/drive/1r4zC-g578oCFTzu8MNmRUQ6aKKrM56mZ?usp=sharing) |
 | Lab 7: Intro to Transformers and BERT | NeurIPS Paper: [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | [video](https://drive.google.com/file/d/1eZg5a9SPZVN5wwOW63nidjCLKOJdP7b2/view?usp=sharing) |[Official Pytorch Notebook](https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/huggingface_pytorch-transformers.ipynb) |
-| Extra Lab 1: [AI Symposium tutorial - GNNs] |||[Official Pytorch Notebook](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/GNN.ipynb) |
+| Extra 1: AI Symposium 2022 Talk-GNNs |||[Official Pytorch Notebook](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Tutorials/GNN.ipynb) |
 
 
 ## Lab Projects
