@@ -111,7 +111,7 @@ over multiple lecture slots.
 | Lecture 26: Variational AE | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture25.pdf), [video](https://drive.google.com/file/d/1mqO0l54JsqqZYnIyOgb--6VYu5jDN-KA/view?usp=sharing) | |
 | Lecture 27: Generative Adversarial Network (GAN) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture26.pdf), [video](https://drive.google.com/file/d/1hY8JTKpTPIEIYhlujrEXcVTQN6E2_tDi/view?usp=sharing) | |
 | Lecture 28: Energy-based Generative Modelling (RBM) | [materials](https://www.deeplearningbook.org/contents/generative_models.html) | |
-| AI Symp 22: [Tutorial Talk on GNNs](https://sites.google.com/goa.bits-pilani.ac.in/aisymposium2022/home?authuser=0) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/AISymp22_GNNs.pdf)| |
+| AI Symp 22: [Tutorial Talk on GNNs](https://sites.google.com/goa.bits-pilani.ac.in/aisymposium2022/home?authuser=0) | [slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/AISymp22_GNNs.pdf), [video](https://youtu.be/rnM6WwJbkF8)| |
 
 
 
